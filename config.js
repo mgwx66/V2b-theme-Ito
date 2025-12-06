@@ -2,11 +2,11 @@ window.settings = {
     // API
     api: "https://dash.fastnet.top",
     // 站点名称
-    title: 'Demo App',
+    title: 'FastNet',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
-    introduction: '我们是一个追求更可靠、安全、高效且高性价比的互联网接入方案。',
+    introduction: '快速、稳定、智能的跨域上网方式',
     // Crisp 客服系统网站 ID
     crisp_id: '',
     // 客户端配置，只能修改 link 和 items的true/false
